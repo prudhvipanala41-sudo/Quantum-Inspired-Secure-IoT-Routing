@@ -944,17 +944,10 @@ The complete framework provides a unified environment for studying how **quantum
 
 ---
 
-# 👥 Project Team
-
-- **D. Lakshmi Aneela**
-- **B.K. Pranavi**
-- **P. Prudhvi Sai**
-
----
 
 # 📄 License / Academic Use
 
-This repository has been developed as part of an academic research and capstone project.
+This repository has been developed as part of an academic research and final year project.
 
 The implementation may be used for:
 
